@@ -57,22 +57,22 @@ This project demonstrates the ability to deploy, secure, and explain Azure stora
 ## Screenshots
 
 ### Resource Group
-![Resource Group](screenshotsss/01-resource-group.png)
+![Resource Group](Screenshotsss/01-resource-group.png)
 
 ### Storage Account
-![Storage Account](screenshotsss/02-storage-account.png)
+![Storage Account](Screenshotsss/02-storage-account.png)
 
 ### Blob Container
-![Container](screenshotsss/03-container.png)
+![Container](Screenshotsss/03-container.png)
 
 ### RBAC Configuration
-![RBAC](screenshotsss/04-rbac.png)
+![RBAC](Screenshotsss/04-rbac.png)
 
 ### SAS Token
-![SAS](screenshotsss/05-sas.png)
+![SAS](Screenshotsss/05-sas.png)
 
 ### Access Keys
-![Access Keys](screenshotsss/06-access-keys.png)
+![Access Keys](Screenshotsss/06-access-keys.png)
 
 ### Encryption
-![Encryption](screenshotsss/07-encryption.png)
+![Encryption](Screenshotsss/07-encryption.png)
